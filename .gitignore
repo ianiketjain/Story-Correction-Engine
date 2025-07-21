@@ -1,0 +1,21 @@
+# Maven build output
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Output directory (created at runtime)
+Reprocessed/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
